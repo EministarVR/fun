@@ -1,6 +1,6 @@
-🎨 The Ultimate Crazy Web Project 🚀
+# 🎨 The Ultimate Crazy Web Project 🚀
 Welcome to The Ultimate Crazy Web Project! Here, you can let your imagination run wild. Build anything you can dream of, break all the rules, and create the craziest, most out-of-this-world website you can think of. The crazier, the better! 🚨🎉
-
+---
 What is this?
 This repository is for anyone who wants to create something insane, weird, or extraordinary on the web. There are almost no rules (just a few basic ones), and the only limit is your creativity. You can:
 
